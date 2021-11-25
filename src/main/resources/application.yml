@@ -8,3 +8,4 @@ spring:
         git:
           uri: https://github.com/CarPalacios/config-data.git
           default-label: main
+
